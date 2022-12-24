@@ -1,0 +1,8 @@
+Machine Learning With Python: Linear Regression using multi variables
+Problem Statements:
+1)Find out price of a home that has:
+ i)3000 sqr ft area, 3 bedrooms, 40 year old
+ ii)2500 sqr ft area, 4 bedrooms,  5 year old
+2)Predict salaries for following candidates:
+ i)2 yr experience, 9 test score, 6 interview score
+ ii)12 yr experience, 10 test score, 10 interview score
