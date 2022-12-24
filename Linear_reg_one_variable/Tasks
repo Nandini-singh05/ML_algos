@@ -1,0 +1,6 @@
+Machine Learning With Python: Linear Regression With One Variable
+Problem Statements:
+1)Predicting home price in monroe, new jersey:
+ i)Predict price of a home with area = 3300 sqr ft
+ ii)Predict price of a home with area = 5000 sqr ft
+2)Predict canada's per capita income in year 2020.
