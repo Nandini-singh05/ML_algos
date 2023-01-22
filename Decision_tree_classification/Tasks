@@ -1,0 +1,4 @@
+1.Build decision tree model to predict if salary > 100k based on certain parameters:
+  i)Is salary of Google, Computer Engineer, Bachelors degree > 100 k ?
+  ii)Is salary of Google, Computer Engineer, Masters degree > 100 k ?
+2.Build decision tree model to predict survival based on certain parameters: Pclass , Sex , Age , Fare
