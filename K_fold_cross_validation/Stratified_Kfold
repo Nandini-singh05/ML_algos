@@ -1,0 +1,13 @@
+Stratified kfold cross validation is an extension of regular kfold cross validation but specifically for classification problems where rather than the splits 
+being completely random, the ratio between the target classes is the same in each fold as it is in the full dataset.
+For example:
+  If we are building a model to classify images of cats and dogs and we have a data set that’s comprised of 75% cat images and 25% dog images, using stratified kfold 
+  cross valuation will mean that each fold we create remains close to this 75/25 ratio.
+---
+When to Use Stratified Kfold Cross Validation:-
+1. We want to preserve the class ratio of our target
+2. We have relatively fewer training examples
+---
+Stratified kfold cross validation is typically useful when we have imbalanced data and where the data size is on the small side. Sometimes we will over or under sample
+our data to deal with class imbalance but other times we want to maintain the class imbalance when it’s representative of or contains some information about what we 
+are trying to classify.
