@@ -1,0 +1,6 @@
+Using the K-means clustering algorithm, analyze the 'income.csv' dataset to identify distinct groups based on age and income. Perform the following steps:
+
+-Load the 'income.csv' file and extract the relevant features.
+-Determine the optimal number of clusters by plotting the elbow curve.
+-Apply the K-means algorithm with the optimal number of clusters and obtain the cluster assignments for each data point.
+-Visualize the clusters by creating a scatter plot with age on the x-axis and income on the y-axis, where each data point is colored according to its assigned cluster.
