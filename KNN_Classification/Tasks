@@ -1,0 +1,8 @@
+Load the Iris dataset.
+Visualize the data with a scatter plot.
+Create a K-nearest neighbors (KNN) classifier.
+Fit the KNN classifier to the training data.
+Predict target values for the test data.
+Calculate the confusion matrix.
+Plot the confusion matrix.
+Print the classification report.
